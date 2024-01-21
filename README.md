@@ -1,2 +1,3 @@
-# rustychain
-A Simple Blockchain in Rust
+# test-blockchain
+
+A Simple Blockchain in Rust for testing purposes 
